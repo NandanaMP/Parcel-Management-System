@@ -17,3 +17,10 @@ User Input: Enter the parcel details, including the destination, order priority,
 Nearest Branch Calculation: The system calculates and displays the nearest branch office based on geographical data.
 Route Optimization: Dijkstra's algorithm is used to evaluate all possible routes and select the most efficient path for delivery.
 Priority Management: Orders are placed into priority queues to ensure high-priority orders are processed first, reducing delays.
+
+
+![image](https://github.com/user-attachments/assets/5b28e8ca-920c-46c0-87bc-be4825f00178)
+![image](https://github.com/user-attachments/assets/4aa0782a-0239-43fe-af88-29d6e2acdf72)
+![image](https://github.com/user-attachments/assets/88688489-66c7-432a-9fcc-50522cd1f6a6)
+
+![image](https://github.com/user-attachments/assets/2ab91d82-7c06-4a28-9967-daf0203b9780)
